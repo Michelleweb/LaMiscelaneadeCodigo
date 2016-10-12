@@ -1,2 +1,1 @@
-a =(1..10).map { |x| x*x*x }
-print a;
+
